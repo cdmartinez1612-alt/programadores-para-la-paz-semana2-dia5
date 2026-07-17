@@ -1,0 +1,1 @@
+El login permite identificar a un usuario antes de darle acceso a las funciones de la aplicación. Algunas rutas deben estar protegidas porque contienen información privada o permiten modificar datos importantes. No se deben publicar contraseñas, documentos de identidad, teléfonos, direcciones, tokens, claves de API ni otros datos sensibles.
